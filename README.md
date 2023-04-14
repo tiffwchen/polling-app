@@ -11,6 +11,10 @@ High-level functional requirements of the prototype:
 3. The teacher is able to see responses for a single question in a teacher-facing view, both individual responses and some aggregation of the responses, ideally in a visual way
 4. The teacher should be able to ask subsequent questions which would start steps 1-3 again
 
+## Dependencies 
+
+Clone polling-app-backend: https://github.com/tiffwchen/polling-app-backend
+
 ## Project setup
 ```
 npm install
